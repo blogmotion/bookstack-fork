@@ -214,7 +214,7 @@ sudo ./installation-ubuntu-18.04.sh
 This is a collection of guides created by awesome members of the BookStack community:
 
 * [Debian 11 with PHP 8.2 by @armando-femat](https://jardin.icamole.site/books/bookstack/page/installation)
-* [RedHat 8.9 with PHP 8.1 (Rocky, Alma, Oracle, etc.) by @xhark](https://github.com/blogmotion/bm-bookstack-install/) - [french guide](https://blogmotion.fr/internet/bookstack-script-installation-centos-8-18255)
+* [RedHat 8.10 with PHP 8.3 (Rocky, Alma, Oracle, etc.) by @xhark](https://github.com/blogmotion/bm-bookstack-install/) - [french guide](https://blogmotion.fr/internet/bookstack-script-installation-centos-8-18255)
 * [Sample Docker Swarm Stack by @neuroforgede](https://github.com/neuroforgede/bookstack-docker-swarm)
 
 In addition to written guides, there are a bunch [community videos on YouTube](https://www.youtube.com/playlist?list=PLLIji4SLo6EiAUI5X3amBSB99HpabUqsS)
